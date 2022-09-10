@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- 
-* printing the alphabet 
+
+* printing the alphabet
+*
 * putchar
+
 */
 
 int main(void)
