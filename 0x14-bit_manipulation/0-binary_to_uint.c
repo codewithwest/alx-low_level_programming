@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * _stoi - converts chars to ints
